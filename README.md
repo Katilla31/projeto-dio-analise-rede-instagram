@@ -1,5 +1,9 @@
 # Projeto de Análise de Redes Sociais com Neo4j
 
+<p align="center">
+  <img src="https://github.com/Katilla31/projeto-dio-analise-rede-instagram/blob/main/schema-analise-instagram-dio.png?raw=true" width="600">
+</p>
+
 Neste projeto foram analisados dados do Instagram utilizando o banco de dados orientado a grafos **Neo4j**. O objetivo é extrair insights sobre engajamento, popularidade de conteúdo e comunidades de interesse, procurando responder o seguinte problema proposto no desafio de projeto da DIO "
 Analisando Dados de Redes Sociais com Base em Consultas de Grafos":
 
